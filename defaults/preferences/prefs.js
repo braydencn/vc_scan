@@ -1,0 +1,10 @@
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.maxCheckoutNum", "3");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.numOfScanPage", "10");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.maxBuy", "10");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.beginNow", true);
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.startTime", "14:19");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.runForEver", true);
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.roundLeft", "10");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.roundsInMinutes", "7");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.minutesBetweenRound", "30");
+pref("extensions.jid0-irn1N0Lu7weN3mXvwE2XxpLIJns@jetpack.scanInterval", "5");

@@ -1,0 +1,1 @@
+self.postMessage({"pageCount":$('.pageCount').first().text()});
